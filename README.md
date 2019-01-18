@@ -2,8 +2,9 @@
 ### in this project we are required to deploy our Flask based project "Item catalog" into a lightsail amazon server
 
 # General information:
-- server's public IP address: 35.156.164.59
-- URL to access the server: http://35.156.164.59.xip.io/
+- server's public IP address: http://35.156.164.59.xip.io/
+- ssh port: 2200
+- URL to access the deployed app on the  server: /var/www/FlaskApp/FlaskApp
 - Software installed: 
   - apache2
   - WSGI for python
